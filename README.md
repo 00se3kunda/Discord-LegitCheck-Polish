@@ -38,7 +38,7 @@ Launch the setup.bat file. A new file will be created. You will only have to lau
 
 #### 2nd・Installation (Manual installation)
 ```
-$ git clone https://github.com/Levyka/Discord-Fake-Nitro-Proof-Generator.git
+$ git clone https://github.com/00se3kunda/Discord-LegitCheck-Polish.git
 $ python -m pip install -r requirements.txt
 $ python main.py
 ```
